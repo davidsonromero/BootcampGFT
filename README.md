@@ -1,3 +1,3 @@
-# Bootcamp GFT
+# Bootcamp GFT Java
 
-### Repositório para o Bootcamp da GFT
+### Repositório para o Bootcamp da GFT Java
