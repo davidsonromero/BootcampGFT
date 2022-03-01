@@ -45,4 +45,8 @@ public class Dog {
         this.colour = colour;
     }
 
+    public void bark() {
+        System.out.println("Auau!");
+    }
+
 }

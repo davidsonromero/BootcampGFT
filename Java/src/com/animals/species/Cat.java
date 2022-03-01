@@ -45,4 +45,8 @@ public class Cat {
         this.colour = colour;
     }
 
+    public void meow() {
+        System.out.println("Meow!");
+    }
+
 }
