@@ -1,3 +1,3 @@
-# Bootcamp GFT Java
+# Bootcamp GFT Java na DIO
 
-### Repositório para o Bootcamp da GFT Java
+#### Repositório para praticar as matérias passadas no Bootcamp GFT Start Java feito na Digital Inovation One
