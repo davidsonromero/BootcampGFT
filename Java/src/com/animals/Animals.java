@@ -1,7 +1,6 @@
 package com.animals;
 
-import com.animals.species.Dog;
-import com.animals.species.Cat;
+import com.animals.species.*;
 
 public class Animals {
     public static void main(String[] args) {

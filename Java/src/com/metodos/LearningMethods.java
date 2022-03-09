@@ -16,7 +16,7 @@ public class LearningMethods {
     }
 
     public static void main(String[] args) {
-        presentate("Jailson Mendes", 50, 8.5, "Java");
+        presentate("José Menezes", 50, 8.5, "Java");
         System.out.println("Current period of the day: " + dayPeriod());
     }
 

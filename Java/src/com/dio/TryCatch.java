@@ -12,9 +12,9 @@ public class TryCatch{
         } catch(NumberFormatException e) {
             System.out.println("Exception caught");
             System.out.println(e);
+            e.getCause();
+            e.printStackTrace();
             System.exit(0);
-        } finally {
-            System.out.println("Finally block");
         }
     }
 }
